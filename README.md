@@ -1,15 +1,40 @@
-# NLP-Sentiment-Analysis-Twitter-USAirline
-# **Data Description**:
+# ✈️ Twitter US Airline Sentiment Analysis 
 
-- A sentiment analysis job about the problems of each major U.S. airline.
-- Twitter data was scraped from February of 2015 and contributors were asked to first classify positive, negative, and neutral tweets, followed by categorizing negative reasons (such as "late flight" or "rude service").
+In this project, we analyze public sentiment towards major U.S. airlines based on tweets. 🚀
 
-# **Dataset**:
+---
 
-- The project is from a dataset from Kaggle.
-- Link to the Kaggle project site:https://www.kaggle.com/crowdflower/twitter-airline-sentiment
-- The dataset has to be downloaded from the above Kagglewebsite.
+## 📂 Files Contained in the Project:
 
-# **Objective**:
+1. `Project__Twitter_US_Airline_Sentiment_Analysis.html` 📊  
+2. `Tweets.csv` 🐦  
 
-- To classify the sentiment of tweets into the positive, neutral & negative.
+---
+
+## 📝 About the Project:
+
+This project performs **sentiment analysis** on Twitter data related to U.S. airlines. We aim to classify tweets as **positive**, **neutral**, or **negative** based on the feedback about airline services. 📈
+
+---
+
+## 📊 Data Description:
+
+The dataset was collected in **February 2015**. Contributors were asked to categorize tweets into **positive**, **neutral**, or **negative**, and further classify the **negative tweets** with reasons like "late flight" or "rude service." 🛫
+
+---
+
+## 📦 Dataset:
+
+The dataset for this project is from **Kaggle**. You can download it from the following link:
+
+[Kaggle Project - Twitter US Airline Sentiment](https://www.kaggle.com/crowdflower/twitter-airline-sentiment) 📦
+
+---
+
+## 🎯 Objective:
+
+The main objective of this project is to classify the sentiment of tweets into the following categories:
+
+- **Positive** 😊  
+- **Neutral** 😐  
+- **Negative** 😠  
